@@ -26,3 +26,9 @@ The program configures GPIO pin `T5` as an output and turns the LED ON.
 - Configuring GPIO pins using `pinMode()`
 - Controlling digital outputs with `digitalWrite()`
 - Structure of Arduino programs (`setup()` and `loop()`)
+
+## DEMO
+
+![alt text](image.png)
+
+
