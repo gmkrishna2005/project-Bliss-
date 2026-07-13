@@ -19,16 +19,6 @@ No matter how small.
 
 Consistency > Perfection.
 
----
 
-## Projects
 
-| Day | Project |
-|------|----------|
-| 001 | Blink LED using ESP32 |
 
----
-
-## Current Streak
-
-🔥 Day 1
